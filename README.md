@@ -1,5 +1,6 @@
-# Project Name
-> Outline a brief description of your project.
+# Lending Club
+> Lending Club is an organisaiton work for approving the customer loans. This is the fist phase of loan approval.
+  Approving loan for only good applicants and rejecting for defaulted applicants.
 
 
 ## Table of Contents
